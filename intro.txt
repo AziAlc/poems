@@ -22,3 +22,6 @@ git push origin --delete brachname
 
 //Whats after is always your local changes. 
 //The thigns above is what was on the file you are pulling from
+
+
+and make chanhes here but only this one to pass
