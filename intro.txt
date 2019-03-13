@@ -32,6 +32,12 @@ git push origin --delete brachname
 and make chanhes here but only this one to pass
 
 
+..to rebase
+git rebase -i HEAD~X (x = number of commits)
+git commit --amend
+git rebase --continue
+git push origin master --force
+
 
 test4
 test2
