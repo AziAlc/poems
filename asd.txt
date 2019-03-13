@@ -3,8 +3,6 @@ How are you doing. OMG WHY WORK?
 Okay but not really okay
 
 
-ABCDEFG
-
 ..create a branch and push-u
 git checkout -b name
 git push --set-upstream origin name
@@ -18,7 +16,3 @@ git checkout --track origin/nameofbranch
 
 ..delete remote branch
 git push origin --delete brachname
-
-
-//Whats after is always your local changes. 
-//The thigns above is what was on the file you are pulling from
